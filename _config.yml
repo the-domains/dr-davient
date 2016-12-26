@@ -1,0 +1,24 @@
+typography_spectrum: 0.4364974065683782
+color:
+  brandStrength: 0.14167486620135605
+  lightness: 0.2967285409104079
+  saturation: 0.9440660865511745
+  rhythmicContrast: 0.506488710641861
+  brandColors:
+    - '#3C493F'
+    - '#7E8D85'
+    - '#B3BFB8'
+    - '#F0F7F4'
+    - '#A2E3C4'
+github: true
+layout_spectrum: 0.6336362326983362
+author:
+  name: Dave Cooper
+  email: dave@drdavient.com
+  url: drdavient.com
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/cecf6f89-9019-4781-a490-824e1753126d.png
+name: Dr Davient
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/e196f6f4-8d5a-4185-8b0d-db6ebe04383e.ico
+content: []
